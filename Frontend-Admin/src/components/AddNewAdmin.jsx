@@ -55,10 +55,6 @@ const AddNewAdmin = () => {
     return <Loading/> 
   }
 
-if (!isAuthenticated) {
-    return <Navigate to={"/login"} />;
-  }
-
   return (
     <>
       <section className="page">

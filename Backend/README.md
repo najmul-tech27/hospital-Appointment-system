@@ -34,31 +34,25 @@ CLOUDINARY_API_SECRET=<Your Cloudinary API Secret>
 
 ### Steps
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Fairooz2150/Hospital-Management-System.git
-    ```
-
-2. Navigate to the **Backend** folder:
+1. Navigate to the **Backend** folder:
 
    ```bash
    cd Backend
    ```
 
-3. Install the required dependencies:
+2. Install the required dependencies:
 
    ```bash
    npm install
    ```
 
-4. Start the server:
+3. Start the server:
 
    ```bash
    npm run dev
    ```
 
-5. The backend will be running at **http://localhost:4000**.
+4. The backend will be running at **http://localhost:4000**.
 
 ## Usage
 

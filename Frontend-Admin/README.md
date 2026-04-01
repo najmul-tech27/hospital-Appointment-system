@@ -47,17 +47,12 @@ To run the Admin Panel of the Hospital Management System locally, follow these s
 
 ### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Fairooz2150/Hospital-Management-System.git
-    ```
-2. Navigate to the Frontend-Admin folder:
+1. Navigate to the Frontend-Admin folder:
 
  ```bash
 cd Frontend-Admin
 ```
-3. Install the required dependencies:
+2. Install the required dependencies:
  ```bash
 npm install
 ```

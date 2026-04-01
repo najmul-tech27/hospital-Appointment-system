@@ -54,17 +54,7 @@ To get started with the project, follow these instructions:
 
 ### Installation
 
-1. **Clone the repository:**
-
-   ```bash
-    git clone https://github.com/Fairooz2150/Hospital-Management-System.git
-   ```
-    - First open Hospital-Management-System folder:
-     ```bash
-     cd Hospital-Management-System
-     ```
-
-2. **Navigate to each folder and install dependencies:**
+1. **Navigate to each folder and install dependencies:**
 
    - For Backend:
      ```bash
