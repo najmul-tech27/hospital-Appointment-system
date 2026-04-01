@@ -26,6 +26,10 @@ app.use(cookieParser())
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
+app.get("/", (req, res) => {
+  res.send("Life Care Backend is Running 🚀");
+});
+
 app.use(fileUpload({
     useTempFiles: true,
     tempFileDir: '/tmp/'
